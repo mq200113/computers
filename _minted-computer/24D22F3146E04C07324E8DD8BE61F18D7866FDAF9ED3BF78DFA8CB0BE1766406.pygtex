@@ -1,0 +1,14 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+cp}{\PYGZsh{}include} \PYG{c+cpf}{\PYGZlt{}stdio.h\PYGZgt{}}
+\PYG{c+cm}{/*}
+\PYG{c+cm}{* comment1}
+\PYG{c+cm}{* main: generate some simple output}
+\PYG{c+cm}{*/}
+
+\PYG{k+kt}{int} \PYG{n+nf}{main}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{)}
+\PYG{p}{\PYGZob{}}
+\PYG{n}{printf}\PYG{p}{(}\PYG{c+cm}{/* comment2 */}\PYG{l+s}{\PYGZdq{}Hello, world.}\PYG{l+s+se}{\PYGZbs{}n}\PYG{l+s}{\PYGZdq{}}\PYG{p}{);} \PYG{c+cm}{/*}
+\PYG{c+cm}{comment3 */}
+\PYG{o}{**\PYGZca{}\PYGZca{}}\PYG{n}{I}\PYG{o}{\PYGZca{}\PYGZca{}}\PYG{n}{I}\PYG{o}{**}\PYG{k}{return} \PYG{l+m+mi}{0}\PYG{p}{;}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

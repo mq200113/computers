@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{n}{printf}\PYG{p}{(}\PYG{l+s}{\PYGZdq{}Hello, world.}\PYG{l+s+se}{\PYGZbs{}n}\PYG{l+s}{\PYGZdq{}}\PYG{p}{);}
+\PYG{n}{printf}\PYG{p}{(}\PYG{l+s}{\PYGZdq{}Goodbye, \PYGZdq{}}\PYG{p}{);}
+\PYG{n}{printf}\PYG{p}{(}\PYG{l+s}{\PYGZdq{}cruel world!}\PYG{l+s+se}{\PYGZbs{}n}\PYG{l+s}{\PYGZdq{}}\PYG{p}{);}
+\end{Verbatim}
