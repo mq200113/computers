@@ -6,6 +6,7 @@
 \usepackage{minted}%直接minted环境加上编程语言名称就可以高亮，特殊的编译命令 xelatex -shell-escape computer.tex，另外有一个一般的代码引用环境\begin{verbatim}
 \usepackage{fancyvrb}
 \usepackage{fontspec}
+\usepackage{array}
 \usepackage{ctex}
 \usepackage{wrapfig}%图文混排
 \usepackage{caption}%浮动体的标题
@@ -14,6 +15,7 @@
 \usepackage{listings}
 \usepackage{framed}
 \usepackage{hyperref}
+\renewcommand\arraystretch{0.7}
 \title{Notes of computers}
 \author{PhilippeMENG}
 \date{\today}
@@ -677,5 +679,87 @@ As a practical matter, for most things you might do to customize or extend Emacs
 
 
 
+\chapter{Emacs入门}
+\section{Understanding Files and Buffers}
+You don't really edit files with Emacs. Instead, Emacs copies the contents of a file into a temporary buffer and you edit that. The file on disk doesn't change until you save the buffer. Like files, Emacs buffers have names. The name of a buffer is usually the same as the name of the file that you're editing. There are a few exceptions. Some buffers don't have associated files—for example, *scratch*(乱写) is just a temporary practice buffer, like a scratchpad; the help facility displays help messages in a buffer named *Help*, which also isn't connected to a file.
+\section{A Word About Modes}
+Emacs achieves some of its famed versatility by having various editing modes in which it behaves slightly differently. The word mode may sound technical, but what it really means is that Emacs becomes sensitive to the task at hand. When you're writing, you often want features like word wrap so that you don't have to press Enter at the end of every line. When you're programming, the code must be formatted correctly depending on the language. For writing, there's text mode; for programming, there are modes for different languages, including C, Java, and Perl. Modes, then, allow Emacs to be the kind of editor you want for different tasks. Text mode and Java mode are major modes. A buffer can be in only one major mode at a time; to exit a major mode, you have to enter another one. 
+\begin{table}[H]
+	\begin{center}
+\begin{tabular}[H]{|l|l|}
+\hline
+Mode & Function\\
+\hline
+Fundamental mode & The default mode\\
+Text mode & For writing text\\
+View mode & For viewing files but not editing\\
+Shell mode & For running a shell within Emacs\\
+Outline mode & For writing outlines\\
+Indented text mode & For indenting text automatically\\
+Paragraph indent text mode & For indenting the first line of each paragraph\\
+Picture mode & For creating ASCII drawings using the keyboard\\
+HTML mode & For writing HTML\\
+SGML mode & For writing SGML and XML\\
+LaTeX mode & For formatting files for TEX and LATEX\\
+Compilation mode & For compiling programs\\
+cc mode & For writing C,C++, and Java programs\\
+Java mode & For writing Java programs\\
+Perl mode and Cperl mode &For writing Perl programs\\
+SQL mode &
+For interacting with databases using SQL\\
+Emacs Lisp mode & For writing Emacs Lisp functions\\
+Lisp mode & For writing Lisp programs\\
+Lisp interaction mode & For writing and evaluating Lisp expressions\\
+\hline
+\end{tabular}
+\end{center}
+\caption{Major modes}
+\end{table}
+Whenever you edit a file, Emacs attempts to put you into the correct major mode for what you're going to edit. If you edit a file that ends in $. c,$ it puts you into cc mode. If you edit a file that ends in .el, it puts you in Lisp mode. Sometimes it looks at the contents of the file rather than just its name. If you edit a file formatted for $\mathrm{TEX}$ Emacs puts you in LaTeX mode. If it cannot tell what mode you should be in, it puts you in fundamental mode, the most general of all. Because Emacs is extensible, addin modes are also available.In addition to major modes there are also minor modes. These define a particular aspect of Emacs's behavior and can be turned on and off within a major mode. For example, auto-fill mode means that Emacs should do word wrap; when you type a long line, it should automatically make an appropriate line break.
 
+\begin{table}[H]
+	\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+			Mode & Function\\
+			\hline
+Auto-fill mode & Enables word wrap \\
+Overwrite mode & Replaces characters as you type instead of inserting them\\
+Auto-save mode & Saves your file automatically every so often in a\\ 
+ &special auto-save file\\
+Search mode & For searching\\
+Flyspell mode & For flyspell spell-checker \\
+Flyspell prog mode & For spell-checking programs with flyspell\\
+Abbrev mode & Allows you to use word abbreviations\\
+Paragraph indent text mode & For indenting the first line of each paragraph \\
+Refill mode & A mode in which Emacs attempts to fill paragraphs\\
+ &as you edit them (a bit experimental)\\
+Artist mode & For creating ASCII drawings using the mouse\\
+Outline mode & For writing outlines \\
+SGML name entity mode & For inserting special characters in HTML, SGML,\\
+ &and XML documents\\
+ISO accents mode & For inserting accented characters in text files\\
+Font lock mode & For highlighting text in colors and fonts to improve readability \\
+ &(separating, for example, comments from code visually)\\
+Compilation mode & For compiling programs\\
+Enriched mode & For saving text attributes \\
+VC mode & For using various version control systems under Emacs\\
+Info mode & A mode for reading Emacs's own documentation\\
+\hline
+\end{tabular}
+\end{center}
+\caption{Minor modes}
+\end{table}
+You may have noticed that several modes, including paragraph indent text mode, outline mode, and compilation mode, are both major and minor modes. Each can be used alone—as a major mode—or with another major mode as a minor mode.
+
+\section{Starting Emacs}
+To start Emacs, simply click on the Emacs icon or type emacs on the command line and press Enter.
+\begin{figure}[H]\centering\includegraphics[scale=0.6]{image//Emacs//1}\end{figure}
+You’ll see a short message describing a few important menu items and the version of Emacs that you’re running. It may appear as a graphical splash screen (like the one shown here) or a text splash screen. This message disappears as soon as you type the first character. Emacs then puts you in an (almost) empty buffer called *scratch*, an ideal place for you to experiment. 
+\section{About the Emacs Display}
+When you enter Emacs, you see a large workspace near the top of the window where you do your editing. 
+\begin{figure}[H]\centering\includegraphics[scale=0.7]{image//Emacs//2}\end{figure}
+A cursor marks your position. The cursor is also called point, particularly among people who are more familiar with Emacs and in the online help system; therefore, it's useful to remember this term.
+
+You don't have to do anything special before you start typing. As long as you type alphanumeric characters and punctuation, Emacs inserts them into your buffer. The cursor indicates where Emacs inserts the new characters; it moves as you type. Unlike many editors (particularly \textbf{vi}), Emacs does not have separate modes for inserting text and giving commands. If you get stuck for any reason, just press $\mathrm{C}$-g.
 \end{document}
