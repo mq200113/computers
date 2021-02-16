@@ -1,0 +1,1186 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.7) (preloaded format=xelatex 2021.1.28)  16 FEB 2021 16:24
+entering extended mode
+**./computer.tex
+(computer.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07> (D:\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(D:\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count164
+\c@chapter=\count165
+\c@section=\count166
+\c@subsection=\count167
+\c@subsubsection=\count168
+\c@paragraph=\count169
+\c@subparagraph=\count170
+\c@figure=\count171
+\c@table=\count172
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (D:\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(D:\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen135
+))
+(D:\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+(D:\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count173
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count174
+\leftroot@=\count175
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count176
+\DOTSCASE@=\count177
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count178
+\c@MaxMatrixCols=\count179
+\dotsspace@=\muskip16
+\c@parentequation=\count180
+\dspbrk@lvl=\count181
+\tag@help=\toks16
+\row@=\count182
+\column@=\count183
+\maxfields@=\count184
+\andhelp@=\toks17
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(D:\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(D:\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(D:\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(D:\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(D:\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+)
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+(D:\MiKTeX\tex/latex/minted\minted.sty
+Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/fvextra\fvextra.sty
+Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
+
+(D:\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(D:\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count185
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2021/01/20 v3.7 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count186
+\FV@InFile=\read2
+\FV@TabBox=\box47
+\c@FancyVerbLine=\count187
+\FV@StepNumber=\count188
+\FV@OutFile=\write3
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(D:\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+Invalid UTF-8 byte or sequence at line 296 replaced by U+FFFD.
+\linenopenalty=\count189
+\output=\toks21
+\linenoprevgraf=\count190
+\linenumbersep=\dimen146
+\linenumberwidth=\dimen147
+\c@linenumber=\count191
+\c@pagewiselinenumber=\count192
+\c@LN@truepage=\count193
+\c@internallinenumber=\count194
+\c@internallinenumbers=\count195
+\quotelinenumbersep=\dimen148
+\bframerule=\dimen149
+\bframesep=\dimen150
+\bframebox=\box48
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count196
+\c@FV@TrueTabCounter=\count197
+\FV@TabBox@Group=\box49
+\FV@TmpLength=\skip52
+\c@FV@HighlightLinesStart=\count198
+\c@FV@HighlightLinesStop=\count199
+\FV@LoopCount=\count266
+\FV@NCharsBox=\box50
+\FV@BreakIndent=\dimen151
+\FV@BreakIndentNChars=\count267
+\FV@BreakSymbolSepLeft=\dimen152
+\FV@BreakSymbolSepLeftNChars=\count268
+\FV@BreakSymbolSepRight=\dimen153
+\FV@BreakSymbolSepRightNChars=\count269
+\FV@BreakSymbolIndentLeft=\dimen154
+\FV@BreakSymbolIndentLeftNChars=\count270
+\FV@BreakSymbolIndentRight=\dimen155
+\FV@BreakSymbolIndentRightNChars=\count271
+\c@FancyVerbLineBreakLast=\count272
+\FV@LineBox=\box51
+\FV@LineIndentBox=\box52
+\FV@LineWidth=\dimen156
+)
+(D:\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count273
+\calc@Bcount=\count274
+\calc@Adimen=\dimen157
+\calc@Bdimen=\dimen158
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count275
+\calc@Cskip=\skip55
+) (D:\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/ifplatform\ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(D:\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(D:\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/catchfile\catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(D:\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count276
+Invalid UTF-8 byte or sequence at line 35 replaced by U+FFFD.
+\decimalpart=\count277
+Invalid UTF-8 byte or sequence at line 79 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 79 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 86 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 102 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 114 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 120 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 125 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 147 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 147 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 147 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 183 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 184 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 189 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 189 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 190 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 190 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 221 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 221 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 295 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 300 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 300 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 301 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 301 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 301 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 302 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 303 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 333 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 406 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 406 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 409 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 428 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 434 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 457 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 457 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 464 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 464 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 466 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 466 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 586 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 586 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 588 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 588 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 595 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 597 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 599 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 602 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 605 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 605 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 610 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 615 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 632 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 632 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 633 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 635 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 637 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 647 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 653 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 678 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 700 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 705 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 719 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 732 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 732 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 741 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 741 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 742 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 742 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 762 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 773 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 773 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 774 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 774 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 774 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 797 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 797 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 810 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 824 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 824 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 831 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 838 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 838 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 846 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 846 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 861 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 862 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 864 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 864 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 908 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 909 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 909 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 934 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 934 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 936 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 936 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 940 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 940 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 962 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 962 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 964 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 965 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1006 replaced by U+FFFD.
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip56
+\fb@frw=\dimen159
+\fb@frh=\dimen160
+\FrameRule=\dimen161
+\FrameSep=\dimen162
+)
+(D:\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count278
+\float@exts=\toks22
+\float@box=\box53
+\@float@everytoks=\toks23
+\@floatcapt=\box54
+)
+\minted@appexistsfile=\read3
+\minted@bgbox=\box55
+\minted@code=\write4
+\c@minted@FancyVerbLineTemp=\count279
+\c@minted@pygmentizecounter=\count280
+\@float@every@listing=\toks24
+\c@listing=\count281
+)
+runsystem(if not exist _minted-computer mkdir _minted-computer)...executed.
+
+
+(D:\MiKTeX\tex/latex/fontspec\fontspec.sty
+(D:\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+(D:\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-08-07 L3 programming layer (loader) 
+
+(D:\MiKTeX\tex/latex/l3backend\l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-08-07 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count282
+\l__pdf_internal_box=\box56
+\g__pdf_backend_object_int=\count283
+\g__pdf_backend_annotation_int=\count284
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(D:\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex
+\l__xparse_current_arg_int=\count285
+\g__xparse_grabber_int=\count286
+\l__xparse_m_args_int=\count287
+\l__xparse_v_nesting_int=\count288
+))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(D:\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count289
+\l__fontspec_language_int=\count290
+\l__fontspec_strnum_int=\count291
+\l__fontspec_tmp_int=\count292
+\l__fontspec_tmpa_int=\count293
+\l__fontspec_tmpb_int=\count294
+\l__fontspec_tmpc_int=\count295
+\l__fontspec_em_int=\count296
+\l__fontspec_emdef_int=\count297
+\l__fontspec_strong_int=\count298
+\l__fontspec_strongdef_int=\count299
+\l__fontspec_tmpa_dim=\dimen163
+\l__fontspec_tmpb_dim=\dimen164
+\l__fontspec_tmpc_dim=\dimen165
+
+(D:\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(D:\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/ctex\ctex.sty
+Package: ctex 2020/10/19 v2.5.5 Chinese adapter in LaTeX (CTEX)
+
+(D:\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/ctex\ctexhook.sty
+Package: ctexhook 2020/10/19 v2.5.5 Document and package hooks (CTEX)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/ctex\ctexpatch.sty
+Package: ctexpatch 2020/10/19 v2.5.5 Patching commands (CTEX)
+)
+(D:\MiKTeX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (D:\MiKTeX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+(D:\MiKTeX\tex/latex/ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count300
+\l__ctex_tmp_box=\box57
+\l__ctex_tmp_dim=\dimen166
+\g__ctex_section_depth_int=\count301
+\g__ctex_font_size_int=\count302
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/ctex/config\ctexopts.cfg
+File: ctexopts.cfg 2020/10/19 v2.5.5 Option configuration file (CTEX)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/ctex/engine\ctex-engine-xetex.
+def
+File: ctex-engine-xetex.def 2020/10/19 v2.5.5 XeLaTeX adapter (CTEX)
+ (C:\Users\10109\AppData\Roaming\MiKTeX\tex/xelatex/xecjk\xeCJK.sty
+Package: xeCJK 2020/06/06 v3.8.4 Typesetting CJK scripts with XeLaTeX
+
+(D:\MiKTeX\tex/latex/l3packages/xtemplate\xtemplate.sty
+Package: xtemplate 2020-05-15 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen167
+\l__xtemplate_tmp_int=\count303
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip57
+)
+\l__xeCJK_tmp_int=\count304
+\l__xeCJK_tmp_box=\box58
+\l__xeCJK_tmp_dim=\dimen168
+\l__xeCJK_tmp_skip=\skip58
+\g__xeCJK_space_factor_int=\count305
+\l__xeCJK_begin_int=\count306
+\l__xeCJK_end_int=\count307
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip59
+\g__xeCJK_node_int=\count308
+\c__xeCJK_CJK_node_dim=\dimen169
+\c__xeCJK_CJK-space_node_dim=\dimen170
+\c__xeCJK_default_node_dim=\dimen171
+\c__xeCJK_default-space_node_dim=\dimen172
+\c__xeCJK_CJK-widow_node_dim=\dimen173
+\c__xeCJK_normalspace_node_dim=\dimen174
+\l__xeCJK_ccglue_skip=\skip60
+\l__xeCJK_ecglue_skip=\skip61
+\l__xeCJK_punct_kern_skip=\skip62
+\l__xeCJK_last_penalty_int=\count309
+\l__xeCJK_last_bound_dim=\dimen175
+\l__xeCJK_last_kern_dim=\dimen176
+\l__xeCJK_widow_penalty_int=\count310
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2329.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen177
+\l__xeCJK_mixed_punct_width_dim=\dimen178
+\l__xeCJK_middle_punct_width_dim=\dimen179
+\l__xeCJK_fixed_margin_width_dim=\dimen180
+\l__xeCJK_mixed_margin_width_dim=\dimen181
+\l__xeCJK_middle_margin_width_dim=\dimen182
+\l__xeCJK_bound_punct_width_dim=\dimen183
+\l__xeCJK_bound_margin_width_dim=\dimen184
+\l__xeCJK_margin_minimum_dim=\dimen185
+\l__xeCJK_kerning_total_width_dim=\dimen186
+\l__xeCJK_same_align_margin_dim=\dimen187
+\l__xeCJK_different_align_margin_dim=\dimen188
+\l__xeCJK_kerning_margin_width_dim=\dimen189
+\l__xeCJK_kerning_margin_minimum_dim=\dimen190
+\l__xeCJK_bound_dim=\dimen191
+\l__xeCJK_reverse_bound_dim=\dimen192
+\l__xeCJK_margin_dim=\dimen193
+\l__xeCJK_minimum_bound_dim=\dimen194
+\l__xeCJK_kerning_margin_dim=\dimen195
+\g__xeCJK_family_int=\count311
+\l__xeCJK_fam_int=\count312
+\g__xeCJK_fam_allocation_int=\count313
+\l__xeCJK_verb_case_int=\count314
+\l__xeCJK_verb_exspace_skip=\skip63
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/xelatex/xecjk\xeCJK.cfg
+File: xeCJK.cfg 2020/06/06 v3.8.4 Configuration file for xeCJK package
+))
+\ccwd=\dimen196
+\l__ctex_ccglue_skip=\skip64
+)
+\l__ctex_ziju_dim=\dimen197
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/zhnumber\zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count315
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/zhnumber\zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/ctex/scheme\ctex-scheme-chines
+e.def
+File: ctex-scheme-chinese.def 2020/10/19 v2.5.5 Chinese scheme for generic (CTE
+X)
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/ctex/config\ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2020/10/19 v2.5.5 Caption with encoding UTF-8 (CTEX)
+)) (D:\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/ctex/fontset\ctex-fontset-wind
+ows.def
+File: ctex-fontset-windows.def 2020/10/19 v2.5.5 Windows fonts definition (CTEX
+)
+
+Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+)) (C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/ctex/config\ctex.cfg
+File: ctex.cfg 2020/10/19 v2.5.5 Configuration file (CTEX)
+) (D:\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen198
+\WF@size=\dimen199
+\c@WF@wrappedlines=\count316
+\WF@box=\box59
+\WF@everypar=\toks25
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen256
+\captionmargin@=\dimen257
+\captionwidth=\dimen258
+\caption@tempdima=\dimen259
+\caption@indent=\dimen260
+\caption@parindent=\dimen261
+\caption@hangindent=\dimen262
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count317
+\c@continuedfloat=\count318
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count319
+\sf@farskip=\skip65
+\sf@captopadj=\dimen263
+\sf@capskip=\skip66
+\sf@nearskip=\skip67
+\c@subfigure=\count320
+\c@subfigure@save=\count321
+\c@lofdepth=\count322
+\c@subtable=\count323
+\c@subtable@save=\count324
+\c@lotdepth=\count325
+\sf@top=\skip68
+\sf@bottom=\skip69
+)
+(D:\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count326
+\lst@gtempboxa=\box60
+\lst@token=\toks26
+\lst@length=\count327
+\lst@currlwidth=\dimen264
+\lst@column=\count328
+\lst@pos=\count329
+\lst@lostspace=\dimen265
+\lst@width=\dimen266
+\lst@newlines=\count330
+\lst@lineno=\count331
+\lst@maxwidth=\dimen267
+
+(D:\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count332
+\lst@skipnumbers=\count333
+\lst@framebox=\box61
+)
+(D:\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/xelatex/xecjk\xeCJK-listings.sty
+Package: xeCJK-listings 2020/06/06 v3.8.4 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count334
+\l__xeCJK_listings_flag_int=\count335
+)
+(D:\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.st
+y
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen268
+\Hy@linkcounter=\count336
+\Hy@pagecounter=\count337
+
+(D:\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count338
+Package hyperref Info: Option `unicode' set `true' on input line 4338.
+
+(D:\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count339
+ (D:\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen269
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count340
+\Field@Width=\dimen270
+\Fld@charsize=\dimen271
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/atbegshi\atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count341
+\c@Item=\count342
+\c@Hfootnote=\count343
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(D:\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box62
+\c@Hy@AnnotLevel=\count344
+\HyField@AnnotCount=\count345
+\Fld@listcount=\count346
+\c@bookmark@seq@number=\count347
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.
+sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/atveryend\atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.
+sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip70
+)
+runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > co
+mputer.aex <nul: /p x=^%~$PATH:i>> computer.aex)...executed.
+
+runsystem(del computer.aex)...executed.
+
+ (computer.aux)
+\openout1 = `computer.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 20.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 20.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 20.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 20.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 20.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 20.
+LaTeX Font Info:    Redeclaring math accent \check on input line 20.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 20.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 20.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 20.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 20.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 20.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 20.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count348
+\AtBeginShipoutBox=\box63
+Package hyperref Info: Link coloring OFF on input line 20.
+
+(D:\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\10109\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestrin
+g.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count349
+)
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+ (computer.out) (computer.out)
+\@outlinefile=\write5
+\openout5 = `computer.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+
+ (D:\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+
+
+(D:\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+] [2
+
+] (computer.toc)
+\tf@toc=\write6
+\openout6 = `computer.toc'.
+
+ [3]
+LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <12> not available
+(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
+23.
+ [4
+
+]
+Chapter 1.
+[5]
+File: image//C语言入门//程序的基本概念//1.png Graphic file (type bmp)
+<image//C语言入门//程序的基本概念//1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+
+Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FangSong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FangSong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
+(fontspec)             with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+[6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+File: image//C语言入门//程序的基本概念//2.png Graphic file (type bmp)
+<image//C语言入门//程序的基本概念//2.png>
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/default-pyg-prefix.pygstyle)
+(_minted-computer/default.pygstyle)
+(_minted-computer/D9789A011F69CD936EA247E78790D0B4172CC57312A3D7D0C93E3C923E3E7
+945.pygtex
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 4.
+)
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/37E8322614E8C73B42B55E0ADE930969172CC57312A3D7D0C93E3C923E3E7
+945.pygtex)
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/D505347E386DB36B7ED0DCB36CFA0EEF172CC57312A3D7D0C93E3C923E3E7
+945.pygtex [8])
+File: image//C语言入门//程序的基本概念//3.png Graphic file (type bmp)
+<image//C语言入门//程序的基本概念//3.png>
+ [9] [10] [11] [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/4311214BD86B74B2C9983D91710765C77866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex)
+Overfull \hbox (38.0623pt too wide) in paragraph at lines 233--234
+\TU/SimSun(0)/m/n/12 全 理 解 这 个 程 序，|  比 如 程 序 的 第 一 行，|  还 有 程 序 主 体 的 \TU/lmtt
+/m/n/12 int main(void){...return
+ []
+
+[14]
+Overfull \hbox (56.93304pt too wide) in paragraph at lines 248--250
+\TU/SimSun(0)/m/n/12 有 些 时 候 编 译 器 的 提 示 信 息 不 是 \TU/lmr/m/n/12 error \TU/SimSu
+n(0)/m/n/12 而 是 \TU/lmr/m/n/12 warning\TU/SimSun(0)/m/n/12 ，|  例 如 把 上 例 中 的 \T
+U/lmtt/m/n/12 printf("Hello,
+ []
+
+[15]
+Overfull \hbox (42.59988pt too wide) in paragraph at lines 258--258
+[]\TU/lmtt/m/n/12 main.c:7: warning: passing argument 1 of  \TU/FangSong(0)/m/n
+/12 ‘ \TU/lmtt/m/n/12 printf \TU/FangSong(0)/m/n/12 ’  \TU/lmtt/m/n/12 makes po
+inter from[] 
+ []
+
+
+Overfull \hbox (17.87994pt too wide) in paragraph at lines 274--274
+[]\TU/lmtt/m/n/12 main.c:7: warning: null argument where non-null required (arg
+ument[] 
+ []
+
+[16]
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/24D22F3146E04C07324E8DD8BE61F18D7866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex) [17] [18]
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/767D2E6D5092D7E850A1F119A0E9C5A07866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex)
+Overfull \hbox (5.70905pt too wide) in paragraph at lines 340--342
+\TU/SimSun(0)/m/n/12 为 了 节 省 篇 幅 突 出 重 点，|  以 后 的 例 子 通 常 省 略 \TU/lmtt/m/n/12 #
+include \TU/SimSun(0)/m/n/12 和 \TU/lmtt/m/n/12 int main(void)
+ []
+
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/D3433460C16A0B1A6B739ECB01E953E67866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex [19])
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/B838D75DDBF8C8ABFFAA514DF9013C037866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex) [20]
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/CF5E74558D80BE53F8DDA4909A22E7F87866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex) [21]
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/43600DFDA96FF80D5589A26D5B94371E7866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex [22])
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/6BEE13BC831429A96D3597EA35076EDC7866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex)
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/16B19C07796F8108A4D1EEA236DE12347866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex [23])
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/93AE36B182D4CB712DCDD074847DC4357866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24])
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/8C459AE06F1B78A7F59CD1400318806A7866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex)
+File: image//C语言入门//常量变量和表达式//1.png Graphic file (type bmp)
+<image//C语言入门//常量变量和表达式//1.png>
+ [25]
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/024EAE5B6170F60D623199B8E2B3A78B7866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex)
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/311D86B71902629BE4858F5624C727E97866FDAF9ED3BF78DFA8CB0BE1766
+406.pygtex) [26]
+Chapter 2.
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/B14D1D4AEA0F5D2B9F7592A10AE12DC29B3957845AC40669123BCD8E143F5
+D5D.pygtex [27
+
+])
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/3032EF23B7200B66291298BEE061D7959B3957845AC40669123BCD8E143F5
+D5D.pygtex) [28]
+Underfull \vbox (badness 2435) has occurred while \output is active []
+
+ [29]
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/56C1120160FEB154F76E8D084359F2129B3957845AC40669123BCD8E143F5
+D5D.pygtex)
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/9C416397237FF5E2DB5B6D5A1342DB1A9B3957845AC40669123BCD8E143F5
+D5D.pygtex)
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/E7F554036F6BBFE6039DF866F13743359B3957845AC40669123BCD8E143F5
+D5D.pygtex) [30]
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/A2C8FAEE38D82D08A18CA4094143226C9B3957845AC40669123BCD8E143F5
+D5D.pygtex)
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/24B51B8054CA69BAF2C35375043804359B3957845AC40669123BCD8E143F5
+D5D.pygtex [31])
+\openout3 = `computer.pyg'.
+
+
+(_minted-computer/19E0273CD20EF501C9914BC6847BB81A9B3957845AC40669123BCD8E143F5
+D5D.pygtex)
+File: image//Lisp语言入门//1.png Graphic file (type bmp)
+<image//Lisp语言入门//1.png>
+ [32] [33] [34] [35] [36]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 681.
+ [37]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 681.
+ (computer.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 681.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 681.
+Package rerunfilecheck Info: File `computer.out' has not changed.
+(rerunfilecheck)             Checksum: 704B2D9BB056CB639F69F79F2D7B971E;2292.
+runsystem(del computer.pyg)...executed.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 21332 strings out of 414493
+ 431056 string characters out of 2910403
+ 772964 words of memory out of 3000000
+ 38177 multiletter control sequences out of 15000+200000
+ 542996 words of font info for 97 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 52i,6n,69p,954b,902s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on computer.pdf (37 pages).

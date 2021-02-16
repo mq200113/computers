@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{char} \PYG{n}{fred}\PYG{p}{;}
+\PYG{k+kt}{int} \PYG{n}{bob}\PYG{p}{;}
+\PYG{k+kt}{float} \PYG{n}{jimmy}\PYG{p}{;}
+\PYG{k+kt}{double} \PYG{n}{tom}\PYG{p}{;}
+\end{Verbatim}

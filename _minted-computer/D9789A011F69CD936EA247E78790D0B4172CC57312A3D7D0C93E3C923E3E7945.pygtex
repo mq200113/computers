@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+ch}{\PYGZsh{}! /bin/sh}
+\PYG{n+nv}{VAR}\PYG{o}{=}\PYG{l+m}{1}
+\PYG{n+nv}{VAR}\PYG{o}{=}\PYG{k}{\PYGZdl{}((}\PYG{n+nv}{\PYGZdl{}VAR}\PYG{o}{+}\PYG{l+m}{1}\PYG{k}{))}
+\PYG{n+nb}{echo} \PYG{n+nv}{\PYGZdl{}VAR}
+\end{Verbatim}

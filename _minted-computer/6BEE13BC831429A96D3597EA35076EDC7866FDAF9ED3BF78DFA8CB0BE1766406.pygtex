@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{char} \PYG{n}{firstletter}\PYG{p}{;}
+\PYG{k+kt}{char} \PYG{n}{lastletter}\PYG{p}{;}
+\PYG{k+kt}{int} \PYG{n}{hour}\PYG{p}{,} \PYG{n}{minute}\PYG{p}{;}
+\end{Verbatim}

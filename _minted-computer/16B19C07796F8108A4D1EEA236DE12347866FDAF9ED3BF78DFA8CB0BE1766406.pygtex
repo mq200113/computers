@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{auto} \PYG{k}{break} \PYG{k}{case} \PYG{k+kt}{char} \PYG{k}{const} \PYG{k}{continue} \PYG{k}{default} \PYG{k}{do} \PYG{k+kt}{double}
+\PYG{k}{else} \PYG{k}{enum} \PYG{k}{extern} \PYG{k+kt}{float} \PYG{k}{for} \PYG{k}{goto} \PYG{k}{if} \PYG{k+kr}{inline} \PYG{k+kt}{int} \PYG{k+kt}{long}
+\PYG{k}{register} \PYG{k+kr}{restrict} \PYG{k}{return} \PYG{k+kt}{short} \PYG{k+kt}{signed} \PYG{k}{sizeof} \PYG{k}{static} \PYG{k}{struct} \PYG{n+nc}{switch} \PYG{k}{typedef}
+\PYG{k}{union} \PYG{n+nc}{unsigned} \PYG{k+kt}{void} \PYG{k}{volatile} \PYG{k}{while} \PYG{k+kt}{\PYGZus{}Bool} \PYG{k+kt}{\PYGZus{}Complex} \PYG{k}{\PYGZus{}Imaginary}
+\end{Verbatim}

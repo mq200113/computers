@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{char} \PYG{n}{firstletter} \PYG{o}{=} \PYG{l+s+sc}{\PYGZsq{}a\PYGZsq{}}\PYG{p}{;}
+\PYG{k+kt}{int} \PYG{n}{hour} \PYG{o}{=} \PYG{l+m+mi}{11}\PYG{p}{,} \PYG{n}{minute} \PYG{o}{=} \PYG{l+m+mi}{59}\PYG{p}{;}
+\end{Verbatim}

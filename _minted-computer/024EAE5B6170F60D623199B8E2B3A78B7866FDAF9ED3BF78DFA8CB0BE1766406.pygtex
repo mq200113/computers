@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{int} \PYG{n}{hour}\PYG{p}{,} \PYG{n}{minute}\PYG{p}{;}
+\PYG{n}{hour} \PYG{o}{=} \PYG{l+s}{\PYGZdq{}Hello.\PYGZdq{}}\PYG{p}{;} \PYG{c+cm}{/* WRONG ! */}
+\PYG{n}{minute} \PYG{o}{=} \PYG{l+s}{\PYGZdq{}59\PYGZdq{}}\PYG{p}{;} \PYG{c+cm}{/* WRONG !! */}
+\end{Verbatim}

@@ -1,0 +1,20 @@
+\contentsline {chapter}{\numberline {1}C语言入门}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}程序的基本概念}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}自然语言和编程语言}{9}{section.1.2}%
+\contentsline {section}{\numberline {1.3}程序的调试}{12}{section.1.3}%
+\contentsline {section}{\numberline {1.4}第一个程序}{14}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}C语言标准}{18}{subsection.1.4.1}%
+\contentsline {section}{\numberline {1.5}常量}{21}{section.1.5}%
+\contentsline {section}{\numberline {1.6}变量}{22}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}声明和定义}{24}{subsection.1.6.1}%
+\contentsline {section}{\numberline {1.7}赋值}{25}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Lisp语言入门}{27}{chapter.2}%
+\contentsline {section}{\numberline {2.1}List Processing}{27}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Lisp Lists}{27}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Lisp Atoms}{28}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Whitespace in Lists}{30}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Run a Program}{31}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Generate an Error Message}{32}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Symbol Names and Function Definitions}{34}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}The Lisp Interpreter}{35}{subsection.2.1.7}%
+\contentsline {subsubsection}{Byte Compiling}{36}{section*.7}%
